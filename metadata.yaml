@@ -1,0 +1,5 @@
+homepage: "https://github.com/precariostecnicos"
+documentation: "https://github.com/precariostecnicos/DecodeBase64"
+versions:
+  - sha: ca92d65189d6beb2e08e5343a83abb9d2147a33b
+    changeNotes: Initial release.
