@@ -1,5 +1,5 @@
-homepage: "https://github.com/precariostecnicos"
-documentation: "https://github.com/precariostecnicos/EncodeBase64"
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/variables/encode-to-base64/"
 versions:
   - sha: dcc2ef405a25caff9c9840554611b5003ee1a927
     changeNotes: Initial release.
