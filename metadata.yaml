@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/variables/encode-to-base64/"
 versions:
+  # Latest version
+  - sha: d0a8ab8b5710d696480fc37293df255d84469206
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: dcc2ef405a25caff9c9840554611b5003ee1a927
     changeNotes: Initial release.
